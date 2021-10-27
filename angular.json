@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "ang-mat-list"
+  "defaultProject": "ang-mat-list",
+  "cli": {
+    "analytics": false
+  }
 }
